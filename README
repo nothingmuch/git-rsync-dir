@@ -1,0 +1,10 @@
+These scripts are like git new-workdir, and can be used to create and update
+rsync mirror directories of several branches from one .git.
+
+The scripts generate a .patch file.
+
+They were originally written for perl.git and the rsync mirror, but were
+forgotten and eventually not used.
+
+I have posted them in case they are useful for anyone else.
+
